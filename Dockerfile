@@ -1,4 +1,4 @@
-FROM php:fpm
+FROM php:7.1.8-fpm
 
 # You may need proxy
 # RUN export http_proxy=192.168.1.10:1080
